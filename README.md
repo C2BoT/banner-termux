@@ -25,12 +25,12 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
-2. `git clone https://github.com/remo7777/T-Header.git`
-3. `cd T-Header/`
+2. `git clone https://github.com/c2bot/banner-termux.git`
+3. `cd banner-termux/`
 4. `ls`
 5. `bash t-header.sh`
 6. after complete all processing just --open new session-- or `source ~/.zshrc`
-7. For remove tool `cd ~/T-header && bash t-header.sh --remove && exit`
+7. For remove tool `cd ~/banner-termux && bash t-header.sh --remove && exit`
 #
 Video guide available on YouTube channel { [Remo773 T-Bag](https://youtu.be/8Duxj_-b4og) }
 
