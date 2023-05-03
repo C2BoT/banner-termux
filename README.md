@@ -1,3 +1,7 @@
+# Z_0_G
+
+<sub><sub><img src="https://raw.githubusercontent.com/C2BoT/banner-termux/master/Screenshot_2023-05-03-23-11-19-132_com.termux.jpg"></sub></sub>
+
 # T-Header script
 This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlight plugins and terminal header with own name for TERMUX. 
 ## Preview of after setup completed..
